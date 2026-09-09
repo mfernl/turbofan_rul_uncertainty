@@ -67,7 +67,7 @@ Trained model weights are not tracked in this repository, every result is reprod
 ## Setup
 
 ```bash
-git clone https://github.com/mfernl/MPMT_RUL_TFM.git
+git clone https://github.com/mfernl/turbofan_rul_uncertainty.git
 cd MPMT_RUL_TFM
 pip install -r requirements.txt
 jupyter notebook
